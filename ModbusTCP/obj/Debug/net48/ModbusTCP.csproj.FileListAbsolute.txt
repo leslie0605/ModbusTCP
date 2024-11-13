@@ -1,0 +1,5 @@
+C:\Users\20162\Desktop\ModbusTCP\ModbusTCP\obj\Debug\net48\ModbusTCP.csproj.AssemblyReference.cache
+C:\Users\20162\Desktop\ModbusTCP\ModbusTCP\obj\Debug\net48\ModbusTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20162\Desktop\ModbusTCP\ModbusTCP\obj\Debug\net48\ModbusTCP.AssemblyInfoInputs.cache
+C:\Users\20162\Desktop\ModbusTCP\ModbusTCP\obj\Debug\net48\ModbusTCP.AssemblyInfo.cs
+C:\Users\20162\Desktop\ModbusTCP\ModbusTCP\obj\Debug\net48\ModbusTCP.csproj.CoreCompileInputs.cache

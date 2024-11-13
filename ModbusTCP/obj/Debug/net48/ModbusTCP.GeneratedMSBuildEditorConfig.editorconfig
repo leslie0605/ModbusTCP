@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ModbusTCP
+build_property.ProjectDir = C:\Users\20162\Desktop\ModbusTCP\ModbusTCP\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
